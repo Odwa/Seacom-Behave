@@ -1,0 +1,86 @@
+1511855677657	geckodriver	INFO	geckodriver 0.19.0
+1511855677662	geckodriver	INFO	Listening on 127.0.0.1:59684
+1511855679728	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\osola\\AppData\\Local\\Temp\\rust_mozprofile.XalF8alQ3d4z"
+1511855680585	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511855685389	Marionette	INFO	Listening on port 59695
+1511855685443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511855685490	Marionette	DEBUG	Register listener.js for window 4294967297
+
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 244: TypeError: this._builder is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Data\Local\openvr\openvrpaths.vrpath
+[Child 19952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[ChUnable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1044, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"http://hr.seacom.io/api/admin/"
+1511855690009	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/api/admin/"
+1511855690327	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/api/admin/"
+1511855690328	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/api/admin/"
+1511855691452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/api/admin/auth/user/"
+1511855691543	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/api/admin/auth/user/"
+1511855691788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511855691854	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/api/admin/auth/user/"
+1511855692021	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/api/admin/auth/user/"
+1511855692022	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/api/admin/auth/user/"
+1511855692211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/api/admin/auth/user/?q=testuser"
+1511855692231	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/api/admin/auth/user/?q=testuser"
+1511855692276	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/api/admin/auth/user/?q=testuser"
+1511855692594	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/api/admin/auth/user/?q=testuser"
+1511855692594	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/api/admin/auth/user/?q=testuser"
+1511855692939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/api/admin/auth/user/1/change/?_changelist_filters=q%3Dtestuser"
+1511855693051	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/api/admin/auth/user/1/change/?_changelist_filters=q%3Dtestuser"
+1511855696590	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/api/admin/auth/user/1/change/?_changelist_filters=q%3Dtestuser"
+1511855696670	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/api/admin/auth/user/1/change/?_changelist_filters=q%3Dtestuser"
+1511855696671	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/api/admin/auth/user/1/change/?_changelist_filters=q%3Dtestuser"
+1511855708611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/login"
+1511855708666	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/login"
+1511855709401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511855716462	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/"
+1511855716721	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/"
+1511855716722	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/"
+1511855716744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/api/admin/login/?next=/api/admin/"
+1511855716782	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/api/admin/login/?next=/api/admin/"
+1511855716870	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/api/admin/login/?next=/api/admin/"
+1511855717236	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/api/admin/login/?next=/api/admin/"
+1511855717237	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/api/admin/login/?next=/api/admin/"
+1511855717248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/api/admin/"
+1511855717278	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/api/admin/"
+1511855717305	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/api/admin/"
+1511855717380	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/api/admin/"
+1511855717380	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/api/admin/"
+1511855723516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/login"
+1511855723518	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/login"
+1511855730586	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/login"
+1511855730606	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/login"
+1511855730606	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/login"
+1511855736331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/login?next=%2F"
+1511855736332	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/login?next=%2F"
+1511855737062	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7968, Chrome_ChildThread] WARNING: pipe Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+it] Error: Channel error: cannot send/recv
+
+line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

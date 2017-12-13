@@ -1,0 +1,69 @@
+1513089363879	geckodriver	INFO	geckodriver 0.19.0
+1513089363885	geckodriver	INFO	Listening on 127.0.0.1:61135
+1513089365954	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\osola\\AppData\\Local\\Temp\\rust_mozprofile.chYtAtgveltw"
+1513089366711	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+e error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ow" for "http://hr.seacom.io/login"
+1513089410349	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089410739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089414260	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hr.seacom.io/"
+1513089414300	Marionette	DEBUG	Received DOM event "pagehide" for "http://hr.seacom.io/"
+1513089414301	Marionette	DEBUG	Received DOM event "unload" for "http://hr.seacom.io/"
+1513089424064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hr.seacom.io/login"
+1513089424066	Marionette	DEBUG	Received DOM event "pageshow" for "http://hr.seacom.io/login"
+1513089424916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089425364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089427331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089427578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089427825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089428074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089428322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089428575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089428847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089429088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089429329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089429632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089429871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089430112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089430404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089430659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089430939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089431218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089431461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089431715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089431970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089432331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089432678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089432958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089433258	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089433525	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513089433796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\osola\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
