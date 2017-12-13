@@ -137,7 +137,8 @@ def fill_in_the_basic_information_form():
 
 
 def take_user_to_contactc_info_form():
-    print('User is taken to the profile info form')
+    fill_in_the_basic_information_form()
+    #print('User is taken to the profile info form')
     
 
 def user_lands_on_the_contact_info_form():
